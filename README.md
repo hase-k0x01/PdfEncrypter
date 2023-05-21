@@ -2,7 +2,7 @@
 Pdf Encryption Tool for Windows.
 
 # Copyright
-Author: Koichi Hasegawa(hase-k0x01)
+Author: hase-k0x01
 E-mail: hase-k0x01@rozen-meiden.com
 Github: https://github.com/hase-k0x01
 
@@ -17,4 +17,7 @@ This software inherits MIT license.
 
 Everyone can use this software and modify within MIT license.
 Author does not have any responsibility for this software!
+
+Icon of this software is from this website:
+https://icon-rainbow.com/
 
